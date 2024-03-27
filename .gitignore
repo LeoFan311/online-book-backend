@@ -8,12 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 package-lock.json
-
-node_modules
-dist
-dist-ssr
 *.local
-
+node_modules/
 # Editor directories and files
 .prettierrc
 .vscode/*
